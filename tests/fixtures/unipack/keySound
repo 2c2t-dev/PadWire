@@ -1,0 +1,5 @@
+1 1 1 kick.wav
+1 1 1 snare.wav
+1 8 8 Snare.wav 0
+2 4 5 kick.wav 1 1
+1 2 2 missing.wav
